@@ -2,3 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
+.primary-btn{
+    @apply text-white bg-[#FF4240] py-4 px-6 rounded-lg border-none text-lg font-bold
+}
