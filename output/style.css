@@ -2306,6 +2306,10 @@ details.collapse summary::-webkit-details-marker {
   font-weight: 500;
 }
 
+.font-semibold {
+  font-weight: 600;
+}
+
 .text-\[\#13131880\] {
   color: #13131880;
 }
@@ -2349,6 +2353,26 @@ details.collapse summary::-webkit-details-marker {
 
 .text-\[\#FFFFFF99\] {
   color: #FFFFFF99;
+}
+
+.text-\[\#4C8DF1\] {
+  --tw-text-opacity: 1;
+  color: rgb(76 141 241 / var(--tw-text-opacity));
+}
+
+.text-\[\#e11d48\] {
+  --tw-text-opacity: 1;
+  color: rgb(225 29 72 / var(--tw-text-opacity));
+}
+
+.text-\[\#d97706\] {
+  --tw-text-opacity: 1;
+  color: rgb(217 119 6 / var(--tw-text-opacity));
+}
+
+.text-\[\#f59e0b\] {
+  --tw-text-opacity: 1;
+  color: rgb(245 158 11 / var(--tw-text-opacity));
 }
 
 .shadow {
